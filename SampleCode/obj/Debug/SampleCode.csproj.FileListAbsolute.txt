@@ -1,0 +1,6 @@
+C:\MyFolder\Practice codes\SampleCode\SampleCode\bin\Debug\SampleCode.exe.config
+C:\MyFolder\Practice codes\SampleCode\SampleCode\bin\Debug\SampleCode.exe
+C:\MyFolder\Practice codes\SampleCode\SampleCode\bin\Debug\SampleCode.pdb
+C:\MyFolder\Practice codes\SampleCode\SampleCode\obj\Debug\SampleCode.csproj.CoreCompileInputs.cache
+C:\MyFolder\Practice codes\SampleCode\SampleCode\obj\Debug\SampleCode.exe
+C:\MyFolder\Practice codes\SampleCode\SampleCode\obj\Debug\SampleCode.pdb
